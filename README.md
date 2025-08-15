@@ -26,5 +26,5 @@ This approach allows designing **practical, high-performance heat storage system
 
 ## 📷 Example Output
 ![Pressure Graph](graph.png)
-![Pressure Graph](graph1.png)
 ![Pressure Graph](graph2.png)
+![Pressure Graph](graph3.png)
