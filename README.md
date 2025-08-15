@@ -1,17 +1,26 @@
-# Multi-Material-Thermochemical-Heat-Storage-Optimization
-Optimizes thermochemical heat storage systems using multiple materials to increase energy density and control output temperature for practical applications. 
-
 # Multi-Material Thermochemical Heat Storage Optimization
 
-This project optimizes high-temperature thermochemical heat storage using multiple materials. The simulation assesses energy density and output temperature based on material selection and system parameters.
+## 📌 Overview
+This project focuses on optimizing **high-temperature thermochemical heat storage using multiple materials** to maximize energy density and maintain stable output temperatures.  
+- **Multi-material modeling** to leverage complementary reaction properties.  
+- **Energy density analysis** to evaluate storage efficiency.  
+- **Output temperature control** through material selection and system parameters.  
 
-## Features
-- Models multi-material thermochemical storage systems
-- Optimizes material combinations for efficiency
-- Simulates energy storage and release
-- Visualizes system performance with graphs
+This approach allows designing **practical, high-performance heat storage systems** for industrial applications.
 
-## How to Run
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/multi-material-thermochemical-storage.git
+## 🎯 Objectives
+- Explore how **different material combinations** affect energy storage capacity.  
+- Identify the **best material pairing** to maintain a target output temperature.  
+- Understand **trade-offs between material cost, energy density, and thermal stability**.  
+
+## 🛠️ Methodology
+1. Define thermodynamic parameters (ΔH, ΔS) for each material.  
+2. Model energy storage and release for single and multi-material setups.  
+3. Simulate system behavior over charging/discharging cycles.  
+4. Generate comparative plots for energy density and output temperature.  
+
+## 📊 Key Results
+- **Energy density graphs** for different material combinations.  
+- **Temperature vs time plots** showing stable output across cycles.  
+- Recommendations for **optimal material selection** for practical applications.
+
