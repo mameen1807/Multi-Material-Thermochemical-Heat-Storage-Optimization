@@ -24,3 +24,5 @@ This approach allows designing **practical, high-performance heat storage system
 - **Temperature vs time plots** showing stable output across cycles.  
 - Recommendations for **optimal material selection** for practical applications.
 
+## 📷 Example Output
+![Pressure Graph](graph.png)
