@@ -28,3 +28,6 @@ This approach allows designing **practical, high-performance heat storage system
 ![Pressure Graph](graph.png)
 ![Pressure Graph](graph2.png)
 ![Pressure Graph](graph3.png)
+## 🚀 How to Run
+```bash
+python Multi-Material Thermochemical Heat Storage.py
